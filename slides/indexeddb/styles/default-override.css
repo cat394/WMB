@@ -1,0 +1,8 @@
+.slidev-layout {
+	& h1 {
+		line-height: 1.5 !important;
+		& + p {
+			margin-block-start: 0.5em;
+		}
+	}
+}

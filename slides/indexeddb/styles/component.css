@@ -1,0 +1,16 @@
+.pretty-btn {
+	--btn-bg-color: #2b90b6;
+	background-color: var(--btn-bg-color);
+	color: white;
+	padding: 0.5em 1em;
+	border-radius: 0.5rem;
+	font-size: 1.2em;
+	font-weight: bold;
+	font-size: 0.8rem;
+}
+
+.line {
+	position: absolute;
+	inset: 0;
+	border-bottom: 0.5px solid red !important;
+}

@@ -1,0 +1,13 @@
+:root {
+  --ease-in-out-sine: cubic-bezier(0.37, 0, 0.63, 1);
+  --dark-bg: rgb(18, 18, 18);
+}
+
+h1, .title {
+  background-color: #bbff99;
+background-image: linear-gradient(319deg, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+
+    background-size: 100%;
+  background-clip: text;
+  color: transparent;
+}
